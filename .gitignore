@@ -1,0 +1,4 @@
+# Filter out these file extensions
+*.in
+*.out
+*.pyc
